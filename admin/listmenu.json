@@ -1,0 +1,16 @@
+{ 
+ "utama": ["owner","sticker","report","sc","setemote"],
+ "anime": { 
+   "sfw": ["waifu","lick","kiss","awoo","hug","cry","cuddle","bully","megumin","shinobu","neko","slap","kick","wink","dance","poke","glomp","bite","nom","handhold","highfive","wave","smile","yeet","bonk","smug","pat"],
+   "nsfw": ["neko","waifu","trap","blowjob"]
+ },
+ "random": ["slip","menfess","lirik","chara","anime","pinterest","ssweb","randomcolor","chatbot","pikiran","quotes","github","fakta","crinj","wyr"],
+ "creatif": ["communism","wanted","gun","clown","blur","ad","uncover","drip"],
+ "randomtag": ["jelek","cantik","ganteng","sad","haram","halal","bego","anjing","biadab","ramah","satir","manis","pahit","hitam","rasis","baik","jahat","kaya","miskin","pintar","bodoh","imut","kocak","kadang"],
+ "cek": ["cekjelek","cekcantik","cekganteng","ceksad","cekharam","cekhalal","cekbego","cekanjing","cekbiadab","cekramah","ceksatir","cekmanis","cekpahit","cekhitam","cekrasis","cekbaik","cekjahat","cekkaya","cekmiskin","cekpintar","cekbodoh","cekimut","cekkocak","cekkadang"],
+ "kerangajaib": ["siapakah","apakah","kapankah","bisakah"],
+ "group": ["setname","setdesc","linkgroup","resetlink","kick","add","demote","promote","group","editinfo"],
+ "storage": ["getmsg","addmsg","addcmd","getcmd"],
+ "owner": ["unban","ban","risetmsg","deletemsg","risetcmd"]
+ 
+}
