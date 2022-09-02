@@ -1,0 +1,1 @@
+// 20% Code gw Enc(Kunci) Kalo mau no enc buy di saya, 082347260729
