@@ -1,9 +1,9 @@
 # BOTZ36
 
-Youtube: RIMURUBOTZ
+Youtube: ZALL MAKER
 
-Instagram: RIMURUBOTZ
+Instagram: Zall.ajh
 
-Whatsapp: 082347260729
+Whatsapp: https://wa.me/62895330006855
 
 Notes: Tap Star nya donk bang😅
